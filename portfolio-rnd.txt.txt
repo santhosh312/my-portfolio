@@ -1,0 +1,52 @@
+My Portfolio Site
+-----------------
+[KEEP IT SIMPLE]
+	
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+1. Navbar
+2. Intro
+3. TechStack and technologies
+4. Projects
+5. Contact
+6. Footer (with social handles)
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
+
+TechStack / Technologies
+------------------------
+Java
+Python
+Javascript
+HTML, CSS
+SQL
+
+React
+Angular
+
+Springboot
+Express
+
+RxJs
+Redux
+NextJS
+
+
+Projects
+--------
+1. NxtWatch // Youtube Clone
+2. Covid Dashboard
+3. Jobby // Sample Job Search portal
+
+4. Try Expense Tracker // Do with Angular/React functional components
+5. EDI Side Projects // EDI to xml/json and csv using Smooks
+6. It would be great if we have a fullstack web app with Spring backend and angular/react frontend
+
+
+
+
+
+
+
+
+
