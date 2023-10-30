@@ -18,7 +18,7 @@ export default function Main(){
                 </div>
                 <div className="lg:w-1/4 lg:order-2 order-1">
                     <div className=" w-60 h-60 bg-emerald-400 circle">
-                        <img src="src\assets\linkedin-dp.jpg" alt="display-pic" />
+                        <img src="linkedin-dp.jpg" alt="display-pic" />
                     </div>
                 </div>
             </div>
