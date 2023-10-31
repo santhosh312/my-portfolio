@@ -2,7 +2,7 @@ export const projects = [
   {
     name: "Covid Dashboard",
     description:
-      "Website that fetches and displays the covid19 statistics statewise",
+      "Website that fetches and displays the covid19 statistics statewise.",
     technologies: ["React", "Javascript", "Styled Components", "recharts"],
     websiteUrl: "https://santhoshcoviddb.ccbp.tech",
   },

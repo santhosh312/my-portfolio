@@ -24,6 +24,13 @@ export default function Navbar(props) {
                         </button>
                     </li>
                 </ul>
+                <ul className='flex lg:hidden dark:text-gray-50'>
+                    <li>
+                        <button onClick={val.toggleTheme} className='flex items-center justify-center text-xl font-medium'>
+                        {val.isDark?<CiLight/>:<CiDark/>}
+                        </button>
+                    </li>
+                </ul>
             </div>
         </>
     )
